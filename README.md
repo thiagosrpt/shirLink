@@ -20,7 +20,7 @@ Function to Generate UID o client side - ID Composed by 5 alpha-numeric characte
 ***
 > HEROKU
 
-App deployed to Heroku: https://github.com/tomitokko/django_url_shortner/blob/main/templates/index.html
+App deployed to Heroku: https://shrlink-heroku.herokuapp.com/
 
 super user: thiago / pw: e3__e3__
 ***
