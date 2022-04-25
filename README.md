@@ -17,3 +17,11 @@ Function to Generate UID o client side - ID Composed by 5 alpha-numeric characte
           secondPart = ("000" + secondPart.toString(36)).slice(-3);
           return firstPart + secondPart;
       }
+
+***
+HEROKU
+***
+
+App deployed to Heroku: https://github.com/tomitokko/django_url_shortner/blob/main/templates/index.html
+
+super user: thiago / pw: e***e***
