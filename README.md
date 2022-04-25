@@ -1,8 +1,7 @@
 # shirLink
 
-**
-DESCRIPTION
-**
+***
+> DESCRIPTION
 
 Simple URL shortner using Django. This version generate unique IDs on client and server side as an example - Shorter Urls are created using Server Generated UID. Client Generate ID creates URL in DB, but those are not exposed to the user.
 
