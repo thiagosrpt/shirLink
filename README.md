@@ -1,8 +1,4 @@
-# shirLink
-
-***
-
-> DESCRIPTION
+# shirLink - URL shrinker
 
 Simple URL shortner using Django. This version generate unique IDs on client and server side as an example - Shorter Urls are created using Server Generated UID. Client Generate ID creates URL in DB, but those are not exposed to the user.
 
@@ -18,14 +14,24 @@ Function to Generate UID o client side - ID Composed by 5 alpha-numeric characte
           return firstPart + secondPart;
       }
 
-***
+## Getting Started
 
-> HEROKU
+Heroku:
+App can be previewed at: https://shrlink-heroku.herokuapp.com/
 
-App deployed to Heroku: https://shrlink-heroku.herokuapp.com/
+
+### Dependencies
+
+* Django
+* Python3
+* no other libraries have been installed.
+
+
+### Executing program
+
+* Download the files in this repo
+* On the root directory, from terminal, execute: Python manage.py runserver.
+code blocks for commands
+
 
 super user: t****o / pw: e3__e3__
-
-***
-
-
